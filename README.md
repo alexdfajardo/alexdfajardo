@@ -40,7 +40,7 @@
         <img align="right" width=300px alt="FACE" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
     </div>
     <div>
-        <h4>Languages</h4>
+        <h4>Languages  (01001100 01100001 01101110 01100111 01110101 01100001 01100111 01100101 01110011)</h4>
         <div>
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
