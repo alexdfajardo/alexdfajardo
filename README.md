@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" width=300px alt="DAVID" src="https://media.tenor.com/I6eTnjTjfbsAAAAj/shocked-david-martinez.gif" />
-&nbsp;***Here, Diego***
+***Here, Diego***
 
 I am a <b>Software Development student</b> 
 - 🌱 I’m currently learning ...
@@ -20,6 +20,7 @@ I am a <b>Software Development student</b>
   <br>
 
 <h3>Languages</h3>
+<div>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
     width="60px"
@@ -40,7 +41,7 @@ I am a <b>Software Development student</b>
     width="60px"
     alt="css3">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  </div>
   </br>
   <h3>Frameworks</h3>
   <img
