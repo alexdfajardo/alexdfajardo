@@ -18,7 +18,7 @@
     <div>
         <h3>Here, Diego</h3>
         <p>
-            I am a <b>Software Development student</b> <br>
+            I am a <b>Software Development student</b> and in the near future I will study <b>Videogames Development</b>. I am passionate about problem solving, teamwork, good practices and the experience obtained in each challenge.<br>
             - 🌱 I’m currently learning ...<br>
               • C#<br>
               • Python<br>
@@ -39,8 +39,7 @@
     <div>
         <img align="right" width=300px alt="FACE" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
     </div>
-
-<div>
+    <div>
         <h4>Languages</h4>
         <div>
             <img
@@ -64,7 +63,7 @@
               alt="css3">
               &nbsp;&nbsp;&nbsp;&nbsp;
         </div>
-        <h4>Frameworks </h4>  
+        <h4>Frameworks</h4>  
             <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
             width="60px"
@@ -85,6 +84,14 @@
             width="60px"
             alt="Bootstrap">
             &nbsp;&nbsp;&nbsp;&nbsp;
-          </div>    
+          </div>   
+        <h4>Storages</h4>  
+             <img
+             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+             width="60px"
+             alt="mySQL">
+             &nbsp;&nbsp;&nbsp;&nbsp;
     </div>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
