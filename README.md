@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=300px alt="DAVID" src="https://media.tenor.com/I6eTnjTjfbsAAAAj/shocked-david-martinez.gif" />
+<img align="left" width=300px alt="DAVID" src="https://media.tenor.com/I6eTnjTjfbsAAAAj/shocked-david-martinez.gif" />
 ***Here, Diego***
 
 I am a <b>Software Development student</b> 
@@ -20,6 +20,8 @@ I am a <b>Software Development student</b>
   <br>
 
 <div>
+<img align="right" width=300px alt="FACE" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+***Here, Diego***
 
 <h3>Languages</h3>
 <div>
