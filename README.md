@@ -16,7 +16,7 @@
         <img align="left" width=300px alt="DAVID" src="https://media.tenor.com/I6eTnjTjfbsAAAAj/shocked-david-martinez.gif" />
     </div>
     <div>
-        <h2>Here, Diego</h2>
+        <h3>Here, Diego</h3>
         <p>
          I am a <b>Software Development student</b> <br>
             - 🌱 I’m currently learning ...<br>
