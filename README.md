@@ -19,6 +19,8 @@ I am a <b>Software Development student</b>
 
   <br>
 
+<div>
+
 <h3>Languages</h3>
 <div>
   <img
@@ -44,6 +46,7 @@ I am a <b>Software Development student</b>
   </div>
   </br>
   <h3>Frameworks</h3>
+  <div>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
     width="60px"
@@ -70,6 +73,7 @@ I am a <b>Software Development student</b>
     width="60px"
     alt="Bootstrap">
     &nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
   
   <!-- Storages -->
   </br>
@@ -80,3 +84,5 @@ I am a <b>Software Development student</b>
     width="60px"
     alt="mySQL">
     &nbsp;&nbsp;&nbsp;&nbsp;
+
+  </div>
