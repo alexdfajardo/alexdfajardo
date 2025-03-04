@@ -3,6 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div>
 <img align="left" width=300px alt="DAVID" src="https://media.tenor.com/I6eTnjTjfbsAAAAj/shocked-david-martinez.gif" />
 ***Here, Diego***
 
@@ -17,6 +18,7 @@ I am a <b>Software Development student</b>
   🎵 Listen to music (Metal,J-rock,R&B,Classical)
   📖 reading science books.
 - 👾 Additionally, I create content about digital ilustration on my social media, so feel free to check out my profile!
+</div>
 </div>
 
   <br>
