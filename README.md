@@ -40,9 +40,8 @@
         <img align="right" width=300px alt="FACE" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
     </div>
 
-    <div>
+<div>
         <h4>Languages</h4>
-
         <div>
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
@@ -65,8 +64,7 @@
               alt="css3">
               &nbsp;&nbsp;&nbsp;&nbsp;
         </div>
-
-        <h4>Frameworks</h4>  
+        <h4>Frameworks </h4>  
             <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
             width="60px"
@@ -88,6 +86,5 @@
             alt="Bootstrap">
             &nbsp;&nbsp;&nbsp;&nbsp;
           </div>    
-
     </div>
 </div>
