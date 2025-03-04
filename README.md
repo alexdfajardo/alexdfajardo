@@ -23,10 +23,10 @@
               • C#<br>
               • Python<br>
             - ✔ Ask me about anything, I am happy to help<br>
-            - Outside tech, I love💜:<br>
+            - Outside tech, I love💜 ...<br>
               •🎮 Play videogames (RPG,shooters,MH begginer♥)<br>
               •🎵 Listen to music (Metal,J-rock,R&B,Classical)<br>
-              •📖 reading science books.<br>
+              •📖 Read manga and watch anime<br>
             - 👾 Additionally, I create content about digital ilustration on my social media, so feel free to check out my profile!
         </p>
     </div>
