@@ -6,6 +6,7 @@
 <img align="left" width=300px alt="DAVID" src="https://media.tenor.com/I6eTnjTjfbsAAAAj/shocked-david-martinez.gif" />
 ***Here, Diego***
 
+<div>
 I am a <b>Software Development student</b> 
 - 🌱 I’m currently learning ...
   - C#
@@ -16,12 +17,13 @@ I am a <b>Software Development student</b>
   🎵 Listen to music (Metal,J-rock,R&B,Classical)
   📖 reading science books.
 - 👾 Additionally, I create content about digital ilustration on my social media, so feel free to check out my profile!
+</div>
 
   <br>
 
 <div>
+  
 <img align="right" width=300px alt="FACE" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-***Here, Diego***
 
 <h3>Languages</h3>
 <div>
