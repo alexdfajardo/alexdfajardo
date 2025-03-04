@@ -18,7 +18,7 @@
     <div>
         <h3>Here, Diego</h3>
         <p>
-            I am a <b>Software Development student</b> and in the near future I will study <b>Videogames Development</b>. I am passionate about problem solving, teamwork, good practices and the experience obtained in each challenge.<br>
+            I am a <b>Software Development student</b> and in the near future I will study <b>Videogames Development</b>. Also I'm passionate about problem solving, teamwork, good practices and the experience obtained in each challenge.<br>
             - 🌱 I’m currently learning ...<br>
               • C#<br>
               • Python<br>
