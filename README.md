@@ -4,18 +4,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" width=300px alt="DAVID" src="https://media.tenor.com/I6eTnjTjfbsAAAAj/shocked-david-martinez.gif" />
-**Here, Diego**
+&nbsp;***Here, Diego***
 
-I am a <b>Software Development student</b>
+I am a <b>Software Development student</b> 
 - 🌱 I’m currently learning ...
   - C#
   - Python
 - ✔ Ask me about anything, I am happy to help<br>
- Outside tech, I love💜:
-  🎮 Play videogames,
-  🎵 Listen to music
+- Outside tech, I love💜:
+  🎮 Play videogames (RPG,shooters,MH begginer♥)
+  🎵 Listen to music (Metal,J-rock,R&B,Classical)
   📖 reading science books.
-- 👾 Additionally, I create content about digita ilustration on my social media, so feel free to check out my profile!
+- 👾 Additionally, I create content about digital ilustration on my social media, so feel free to check out my profile!
+
+  <br>
 
 <h3>Languages</h3>
   <img
