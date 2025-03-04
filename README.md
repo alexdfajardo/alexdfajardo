@@ -18,15 +18,15 @@
     <div>
         <h2>Here, Diego</h2>
         <p>
-            I am a <b>Software Development student</b> 
-            - 🌱 I’m currently learning ...
-              - C#
-              - Python
+         I am a <b>Software Development student</b> <br>
+            - 🌱 I’m currently learning ...<br>
+              - C#<br>
+              - Python<br>
             - ✔ Ask me about anything, I am happy to help<br>
-            - Outside tech, I love💜:
-              🎮 Play videogames (RPG,shooters,MH begginer♥)
-              🎵 Listen to music (Metal,J-rock,R&B,Classical)
-              📖 reading science books.
+            - Outside tech, I love💜:<br>
+              🎮 Play videogames (RPG,shooters,MH begginer♥)<br>
+              🎵 Listen to music (Metal,J-rock,R&B,Classical)<br>
+              📖 reading science books.<br>
             - 👾 Additionally, I create content about digital ilustration on my social media, so feel free to check out my profile!
         </p>
     </div>
